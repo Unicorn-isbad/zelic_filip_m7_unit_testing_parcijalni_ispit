@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "m7_mvc_net6", "m7_mvc_net6\m7_mvc_net6.csproj", "{D7589CE9-96F8-4CD4-8826-58C2868B849A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m7_mvc_net6.Tests", "m7_mvc_net6.Tests\m7_mvc_net6.Tests.csproj", "{0E409099-766C-4043-B5C6-837D27344EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7589CE9-96F8-4CD4-8826-58C2868B849A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7589CE9-96F8-4CD4-8826-58C2868B849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7589CE9-96F8-4CD4-8826-58C2868B849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7589CE9-96F8-4CD4-8826-58C2868B849A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E409099-766C-4043-B5C6-837D27344EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E409099-766C-4043-B5C6-837D27344EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E409099-766C-4043-B5C6-837D27344EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E409099-766C-4043-B5C6-837D27344EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7D195B-792A-444E-9ECE-0B2F11D3EC6F}
+	EndGlobalSection
+EndGlobal
